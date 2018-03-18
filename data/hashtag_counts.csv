@@ -1,0 +1,1146 @@
+car,dog,count
+Volkswagen Tiguan,Poodle,1
+Volkswagen Tiguan,Chihuahua,4
+Hyundai Genesis,Pitbull,3
+Hyundai Genesis,Chihuahua,2
+Hyundai Genesis,Italian Greyhound,1
+Hyundai Genesis,Alaskan Malamute,2
+Hyundai Genesis,Siberian Husky,2
+Hyundai Genesis,Poodle,1
+Hyundai Genesis,Cockapoo,1
+Hyundai Genesis,Pug,2
+Hyundai Genesis,Bloodhound,1
+Toyota Mirai,Rescue Dog,2
+Toyota Mirai,Pug,1
+Toyota Mirai,Samoyed,1
+Toyota Mirai,Newfoundland,1
+Toyota Mirai,Catahoula Leopard Dog,1
+Toyota Mirai,Beagle,1
+BMW i3,Dachshund,1
+Buick LaCrosse,Pug,1
+Buick LaCrosse,Beagle,1
+Buick LaCrosse,Dachshund,2
+Buick LaCrosse,American Bulldog,2
+Buick LaCrosse,Great Pyrenees,1
+Buick LaCrosse,Newfoundland,9
+Buick LaCrosse,Siberian Husky,4
+Buick LaCrosse,Pitbull,20
+Buick LaCrosse,Great Dane,4
+Lexus RC,Poodle,1
+Lexus RC,Pitbull,1
+Lexus RC,Rescue Dog,1
+Mitsubishi Mirage,Italian Greyhound,1
+Alfa Romeo Giulia,Pitbull,15
+Alfa Romeo Giulia,Rhodesian Ridgeback,1
+Alfa Romeo Giulia,American Bulldog,2
+Alfa Romeo Giulia,Pug,1
+Alfa Romeo Giulia,Bullmastiff,1
+Alfa Romeo Giulia,Labrador Retriever,1
+Alfa Romeo Giulia,Chihuahua,1
+Alfa Romeo Giulia,Siberian Husky,2
+Alfa Romeo Giulia,Shih Tzu,1
+Kia Sportage,Siberian Husky,1
+Kia Sportage,Pug,2
+Kia Sportage,Newfoundland,5
+Kia Sportage,Labrador Retriever,4
+Kia Sportage,Golden Retriever,1
+Chevrolet Traverse,Chihuahua,21
+Chevrolet Traverse,Giant Schnauzer,1
+Chevrolet Traverse,Siberian Husky,1
+Chevrolet Traverse,American Bulldog,2
+Ford Explorer,Pitbull,2
+Ford Explorer,Italian Greyhound,1
+Ford Explorer,Newfoundland,13
+Ford Explorer,Maltese,1
+Ford Explorer,Siberian Husky,6
+Ford Explorer,Welsh Corgi,2
+Nissan Altima,Bloodhound,1
+Nissan Altima,Beagle,1
+Chevrolet Impala,Poodle,2
+Chevrolet Impala,American Bulldog,4
+Chevrolet Impala,Pitbull,7
+Chevrolet Impala,Pug,10
+Chevrolet Impala,Chihuahua,4
+Chevrolet Impala,Siberian Husky,2
+Chevrolet Impala,Jack Russell Terrier,1
+Chevrolet Impala,Labrador Retriever,1
+Chevrolet Impala,Rottweiler,1
+Tesla Model 3,Pug,68
+Tesla Model 3,German Shepherd Dog,3
+Tesla Model 3,Rescue Dog,1
+Tesla Model 3,Welsh Corgi,1
+Tesla Model 3,American Bulldog,1
+Tesla Model 3,Samoyed,1
+Kia Stinger,Bloodhound,1
+Kia Stinger,Siberian Husky,1
+Kia Stinger,Maltese,1
+Kia Stinger,Welsh Corgi,1
+Mercedes-Benz S-Class,German Shepherd Dog,2
+Mercedes-Benz S-Class,Pug,1
+Ford Expedition,Rottweiler,1
+Ford Expedition,Labrador Retriever,1
+Ford Expedition,Great Dane,1
+Ford Expedition,Bullmastiff,1
+Ford Expedition,Rescue Dog,2
+Ford Expedition,Alaskan Malamute,41
+BMW X1,American Bulldog,1
+Honda Odyssey,Italian Greyhound,4
+Honda Odyssey,Border Collie,2
+Honda Odyssey,Bullmastiff,1
+Honda Odyssey,Chihuahua,2
+Honda Odyssey,Pitbull,2
+Honda Odyssey,Pointer,1
+Subaru Outback,Pug,3
+Subaru Outback,American Bulldog,1
+Subaru Outback,Maltese,1
+Subaru Outback,Dachshund,1
+Subaru Outback,Pitbull,1
+Chevrolet Spark,Dachshund,1
+Chevrolet Spark,Akita,2
+Chevrolet Spark,Welsh Corgi,1
+Chevrolet Spark,Chihuahua,1
+Chevrolet Spark,American Bulldog,4
+Chevrolet Spark,Rescue Dog,2
+Chevrolet Spark,German Shepherd Dog,1
+Chevrolet Spark,Border Collie,1
+Volkswagen Touareg,Dachshund,3
+Infiniti Q70,Pug,27
+Hyundai Santa Fe,Chihuahua,1
+Hyundai Santa Fe,Labradoodle,2
+Hyundai Santa Fe,Pug,1
+Hyundai Santa Fe,Bloodhound,1
+Chevrolet Colorado,Poodle,2
+Chevrolet Colorado,German Shepherd Dog,1
+Chevrolet Colorado,Newfoundland,1
+Chevrolet Colorado,Golden Retriever,2
+Chevrolet Colorado,Chinese Shar-Pei,1
+Chevrolet Colorado,Maltese,1
+Chevrolet Colorado,Pitbull,2
+Chevrolet Colorado,Chihuahua,1
+Chevrolet Colorado,Italian Greyhound,2
+Chevrolet Colorado,Rescue Dog,1
+Chevrolet Colorado,Siberian Husky,1
+Chevrolet Colorado,Rottweiler,1
+Ford Focus,Golden Retriever,1
+Ford Focus,Pomeranian,44
+Ford Focus,Labrador Retriever,27
+Ford Focus,Pug,6
+Ford Focus,Chihuahua,2
+Ford Focus,Rottweiler,1
+Ford Focus,Bloodhound,1
+Ford Focus,Siberian Husky,2
+Ford Focus,Rescue Dog,1
+GMC Yukon XL,Jack Russell Terrier,1
+GMC Yukon XL,Siberian Husky,1
+Jeep Cherokee,Poodle,2
+Jeep Cherokee,Siberian Husky,1
+Jeep Cherokee,Rottweiler,1
+Jeep Cherokee,Maltese,1
+Jeep Cherokee,Chihuahua,1
+Jeep Cherokee,Dachshund,1
+Jeep Cherokee,Pointer,1
+Jeep Cherokee,American Bulldog,3
+Jeep Cherokee,Mutt,1
+Jeep Cherokee,Shih Tzu,1
+Jeep Cherokee,Boston Terrier,2
+Ford Flex,Bloodhound,2
+BMW 3-Series,Labrador Retriever,1
+BMW 3-Series,Akita,1
+BMW 3-Series,Pug,3
+Lexus CT,Pitbull,1
+Nissan Versa,Siberian Husky,10
+Nissan Versa,Chihuahua,23
+Nissan Versa,Pitbull,3
+Nissan Versa,Rescue Dog,1
+Maserati Levante,Rottweiler,1
+Maserati Levante,Poodle,1
+Maserati Levante,Labradoodle,1
+Maserati Levante,Dachshund,1
+Maserati Levante,Chihuahua,1
+Maserati Levante,Pitbull,1
+Maserati Levante,Maltese,1
+Kia Sedona,Pug,3
+Kia Sedona,Newfoundland,1
+Kia Sedona,Pomeranian,1
+Kia Sedona,German Shepherd Dog,1
+Kia Sedona,Chihuahua,1
+GMC Yukon,Chihuahua,6
+GMC Yukon,Pitbull,6
+GMC Yukon,Italian Greyhound,18
+GMC Yukon,Golden Retriever,2
+GMC Yukon,Samoyed,4
+GMC Yukon,Siberian Husky,7
+GMC Yukon,Beagle,6
+GMC Yukon,Poodle,1
+GMC Yukon,Catahoula Leopard Dog,1
+GMC Yukon,Newfoundland,3
+GMC Yukon,Rescue Dog,3
+GMC Yukon,Pug,3
+GMC Yukon,American Bulldog,1
+GMC Yukon,Bichon Frise,1
+GMC Yukon,Goldendoodle,1
+GMC Yukon,Great Pyrenees,15
+GMC Yukon,Alaskan Malamute,2
+GMC Yukon,Welsh Corgi,1
+GMC Yukon,Labradoodle,1
+GMC Yukon,Giant Schnauzer,1
+GMC Yukon,Pomeranian,1
+GMC Yukon,Bullmastiff,1
+Ford Escape,Jack Russell Terrier,1
+Ford Escape,German Shepherd Dog,1
+Ford Escape,Rescue Dog,1
+Ford Escape,Golden Retriever,2
+Ford Escape,Siberian Husky,1
+Ford Escape,Italian Greyhound,1
+Ford Escape,Lhasa Apso,1
+Ford Escape,Samoyed,1
+Ford Escape,Pug,2
+Ford Escape,Boston Terrier,7
+Ford Escape,American Bulldog,3
+Tesla Model S,Jack Russell Terrier,1
+Tesla Model S,Pug,1
+Nissan Armada,Pitbull,3
+Nissan Armada,Boston Terrier,1
+Honda Ridgeline,Golden Retriever,17
+Honda Ridgeline,American Bulldog,1
+Honda Ridgeline,Pug,4
+Honda Ridgeline,Boston Terrier,38
+Toyota Yaris,Chihuahua,1
+Mazda 5,Rescue Dog,1
+Mazda 5,Pointer,1
+Volkswagen Golf,American Bulldog,2
+Bentley Continental GT,Newfoundland,1
+Bentley Continental GT,Bloodhound,1
+Bentley Continental GT,American Bulldog,3
+Bentley Continental GT,Rottweiler,1
+Bentley Continental GT,Golden Retriever,2
+Bentley Continental GT,Dachshund,3
+Bentley Continental GT,Beagle,1
+BMW 6-Series,Golden Retriever,3
+BMW 6-Series,Dachshund,1
+BMW 6-Series,German Shepherd Dog,2
+BMW 6-Series,Chihuahua,1
+BMW 6-Series,Pug,2
+BMW 6-Series,Boston Terrier,1
+BMW 6-Series,Jack Russell Terrier,1
+BMW 6-Series,Siberian Husky,1
+Nissan Quest,Chihuahua,1
+Nissan Quest,Cocker Spaniel,1
+Nissan Quest,Pitbull,1
+Nissan Quest,Siberian Husky,1
+Nissan Quest,Golden Retriever,1
+Nissan Quest,Rescue Dog,1
+Honda Civic,Shih Tzu,1
+Honda Civic,German Shepherd Dog,1
+Honda Civic,Border Collie,3
+Honda Civic,Dachshund,1
+Honda Civic,Bullmastiff,1
+Honda Civic,Chihuahua,2
+Honda Civic,Pitbull,2
+Honda Civic,Pointer,1
+Honda Civic,Bichon Frise,1
+Kia Soul,Chihuahua,2
+Subaru Forester,Siberian Husky,1
+Subaru Forester,Giant Schnauzer,1
+Subaru Forester,Italian Greyhound,7
+Mazda CX-5,Chihuahua,2
+Mazda CX-5,Pug,1
+Mazda CX-5,Border Collie,1
+BMW 7-Series,Pitbull,4
+BMW 7-Series,Pug,1
+BMW 7-Series,Chihuahua,1
+Dodge Viper,Beagle,1
+Dodge Viper,Jack Russell Terrier,1
+Dodge Viper,Border Collie,1
+Dodge Viper,Italian Greyhound,1
+Dodge Viper,Pitbull,1
+Dodge Viper,Boston Terrier,2
+Dodge Viper,American Bulldog,1
+Dodge Viper,Miniature Pinscher,2
+Dodge Viper,Golden Retriever,1
+Dodge Viper,Rescue Dog,1
+Chevrolet Suburban,Cocker Spaniel,2
+Chevrolet Suburban,Beagle,1
+Chevrolet Suburban,English Springer Spaniel,1
+Chevrolet Suburban,Italian Greyhound,4
+Chevrolet Suburban,Chow Chow,1
+Chevrolet Suburban,Siberian Husky,8
+Chevrolet Suburban,Chihuahua,4
+Chevrolet Suburban,Dachshund,4
+Chevrolet Suburban,Labrador Retriever,1
+Chevrolet Suburban,Bichon Frise,1
+Chevrolet Suburban,Alaskan Malamute,1
+Chevrolet Suburban,Miniature Pinscher,2
+Chevrolet Suburban,Border Collie,2
+Chevrolet Suburban,Rescue Dog,9
+Chevrolet Suburban,Pomeranian,1
+Chevrolet Suburban,Mutt,1
+Chevrolet Suburban,Golden Retriever,1
+Chevrolet Suburban,German Shepherd Dog,2
+Chevrolet Suburban,Bullmastiff,27
+Chevrolet Suburban,American Bulldog,3
+Chevrolet Suburban,Pug,3
+Toyota Tundra,Siberian Husky,14
+Toyota Tundra,Welsh Corgi,3
+Toyota Tundra,German Shepherd Dog,9
+Toyota Tundra,Pointer,2
+Toyota Tundra,Shih Tzu,1
+Toyota Tundra,Golden Retriever,1
+Toyota Tundra,Border Collie,3
+Toyota Tundra,Chihuahua,1
+Toyota Tundra,Labrador Retriever,1
+Bentley Bentayga,Boston Terrier,136
+Bentley Bentayga,Poodle,44
+Bentley Bentayga,Border Collie,8
+Bentley Bentayga,Jack Russell Terrier,15
+Bentley Bentayga,Pitbull,4
+Bentley Bentayga,Bloodhound,2
+Bentley Bentayga,American Bulldog,4
+Bentley Bentayga,Weimaraner,1
+Bentley Bentayga,Chihuahua,4
+Bentley Bentayga,Siberian Husky,1
+Bentley Bentayga,Rescue Dog,1
+Bentley Bentayga,Newfoundland,2
+Bentley Bentayga,Bernese Mountain Dog,3
+Bentley Bentayga,Cocker Spaniel,1
+Bentley Bentayga,Bullmastiff,1
+Bentley Bentayga,Golden Retriever,1
+Bentley Bentayga,Beagle,3
+Bentley Bentayga,Labrador Retriever,1
+Ford GT,Poodle,1
+Ford GT,Pitbull,1
+Toyota 4Runner,Great Dane,2
+Toyota 4Runner,German Shepherd Dog,1
+Toyota 4Runner,Australian Shepherd,1
+Toyota 4Runner,Rottweiler,2
+Toyota 4Runner,Catahoula Leopard Dog,1
+Toyota 4Runner,Bloodhound,1
+Lexus GX,Pitbull,1
+Lexus GX,Welsh Corgi,2
+Lexus GX,Pug,1
+Hyundai Azera,Golden Retriever,1
+Honda Insight,American Bulldog,2
+Honda Insight,Beagle,1
+Honda Insight,Labrador Retriever,2
+Maserati Quattroporte,Bloodhound,1
+Maserati Quattroporte,Pitbull,2
+Maserati Quattroporte,Newfoundland,1
+Maserati Quattroporte,Dachshund,1
+Maserati Quattroporte,Welsh Corgi,3
+Maserati Quattroporte,Weimaraner,1
+Maserati Quattroporte,German Shepherd Dog,2
+Maserati Quattroporte,Samoyed,1
+Maserati Quattroporte,Golden Retriever,3
+Maserati Quattroporte,Dalmatian,1
+Maserati Quattroporte,Siberian Husky,1
+Maserati Quattroporte,Alaskan Malamute,1
+Ford E-Series,Siberian Husky,3
+Ford E-Series,Golden Retriever,1
+Ford E-Series,American Bulldog,1
+Ford E-Series,Cockapoo,1
+Ford E-Series,Akita,2
+Ford E-Series,Pitbull,1
+Ford E-Series,Pug,5
+Ford E-Series,Rescue Dog,2
+Ford E-Series,English Springer Spaniel,1
+Ford E-Series,German Shepherd Dog,1
+Ford E-Series,Poodle,1
+Mazda CX-9,Pug,1
+Jaguar F-Pace,American Bulldog,14
+Jaguar F-Pace,Pitbull,1
+Jaguar F-Pace,Italian Greyhound,1
+Jaguar F-Pace,Chihuahua,3
+Jaguar F-Pace,Bloodhound,1
+Jaguar F-Pace,Golden Retriever,2
+Jaguar F-Pace,Pug,1
+Lincoln MKS,Pomeranian,2
+Lincoln MKS,Border Collie,1
+Lincoln MKS,Bullmastiff,1
+Lincoln MKS,Chihuahua,1
+Lincoln MKS,Pitbull,2
+Lincoln MKS,Siberian Husky,1
+Lincoln MKS,Shih Tzu,1
+Lincoln MKS,Lhasa Apso,1
+Nissan Frontier,Newfoundland,2
+Nissan Frontier,American Bulldog,1
+Nissan Frontier,Pug,1
+Toyota Tacoma,Australian Shepherd,1
+Toyota Tacoma,Boston Terrier,1
+Toyota Tacoma,Alaskan Malamute,2
+Toyota Tacoma,Chihuahua,2
+Toyota Tacoma,Siberian Husky,1
+Toyota Tacoma,Pitbull,2
+Toyota Tacoma,Newfoundland,1
+Toyota Tacoma,American Bulldog,1
+Toyota Tacoma,Rescue Dog,1
+Toyota Tacoma,German Shepherd Dog,1
+Toyota Tacoma,Welsh Corgi,1
+Toyota Tacoma,Pomeranian,1
+Toyota Tacoma,Pug,1
+Jaguar F-Type,German Shepherd Dog,2
+Jaguar F-Type,Pitbull,1
+Jaguar F-Type,Rescue Dog,1
+Jaguar F-Type,Doberman Pinscher,1
+Jaguar F-Type,Great Dane,2
+Jaguar F-Type,Bloodhound,3
+Volkswagen Beetle,Rescue Dog,4
+Volkswagen Beetle,Labrador Retriever,11
+Volkswagen Beetle,Dalmatian,2
+Volkswagen Beetle,Golden Retriever,2
+Volkswagen Beetle,Beagle,1
+Volkswagen Beetle,Chihuahua,2
+Volkswagen Beetle,Pitbull,23
+Volkswagen Beetle,Jack Russell Terrier,3
+Volkswagen Beetle,American Bulldog,3
+Volkswagen Beetle,Cocker Spaniel,1
+Volkswagen Beetle,Border Collie,1
+Volkswagen Beetle,Dachshund,1
+Volkswagen Beetle,Welsh Corgi,1
+Volkswagen Beetle,Weimaraner,1
+Volkswagen Beetle,Pointer,1
+Toyota Camry,American Bulldog,1
+Toyota Camry,Labrador Retriever,1
+Toyota Camry,Pitbull,2
+Toyota Camry,Siberian Husky,1
+Chevrolet Corvette,Pug,4
+Chevrolet Corvette,Cockapoo,1
+Chevrolet Corvette,Whippet,1
+Chevrolet Corvette,Pitbull,3
+Chevrolet Corvette,Rhodesian Ridgeback,1
+Chevrolet Corvette,Basset Hound,1
+Chevrolet Corvette,Chihuahua,1
+Chevrolet Corvette,American Bulldog,2
+Chevrolet Corvette,Italian Greyhound,1
+Kia Cadenza,Boston Terrier,14
+Kia Cadenza,Beagle,12
+Kia Cadenza,American Bulldog,66
+Kia Cadenza,Great Dane,1
+Kia Cadenza,Shih Tzu,2
+Kia Cadenza,Labradoodle,1
+Kia Cadenza,Australian Shepherd,1
+Kia Cadenza,Italian Greyhound,1
+Audi A6,Pitbull,3
+Audi A6,American Bulldog,1
+Audi A6,Poodle,1
+Buick Enclave,Pug,1
+Buick Enclave,Chihuahua,1
+Buick Enclave,American Bulldog,1
+Buick Enclave,Pitbull,1
+Mini Cooper,American Bulldog,8
+Mini Cooper,Dalmatian,1
+Mini Cooper,Chihuahua,3
+Mini Cooper,Jack Russell Terrier,39
+Mini Cooper,Dachshund,9
+Mini Cooper,Rhodesian Ridgeback,1
+Mini Cooper,Great Pyrenees,2
+Mini Cooper,German Shepherd Dog,1
+Mini Cooper,Italian Greyhound,1
+Mini Cooper,Whippet,3
+Mini Cooper,Mutt,8
+Mini Cooper,Maltese,1
+Mini Cooper,Rottweiler,3
+Mini Cooper,Rescue Dog,4
+Land Rover Discovery,Beagle,9
+Land Rover Discovery,Welsh Corgi,1
+Land Rover Discovery,Jack Russell Terrier,5
+Land Rover Discovery,Flat-Coated Retriever,2
+Land Rover Discovery,American Bulldog,1
+Land Rover Discovery,Doberman Pinscher,1
+Land Rover Discovery,Golden Retriever,6
+Land Rover Discovery,Italian Greyhound,1
+Land Rover Discovery,Newfoundland,3
+Land Rover Discovery,German Shepherd Dog,5
+Land Rover Discovery,Siberian Husky,5
+Land Rover Discovery,Rescue Dog,1
+Land Rover Discovery,Giant Schnauzer,1
+Alfa Romeo Stelvio,Pug,1
+Alfa Romeo Stelvio,Golden Retriever,2
+Alfa Romeo Stelvio,Pitbull,1
+Alfa Romeo Stelvio,Bloodhound,1
+Lexus GS,Welsh Corgi,1
+Lexus GS,Rescue Dog,1
+Lexus GS,Newfoundland,1
+Hyundai Veloster,Siberian Husky,1
+Kia Forte,Golden Retriever,1
+Kia Forte,Pitbull,6
+Kia Forte,Pointer,1
+Kia Forte,Italian Greyhound,5
+Kia Forte,Welsh Corgi,2
+Kia Forte,Beagle,1
+Kia Forte,Siberian Husky,9
+Kia Forte,Border Collie,3
+Kia Forte,Labrador Retriever,4
+Kia Forte,Chihuahua,6
+Kia Forte,Bernese Mountain Dog,1
+Kia Forte,Jack Russell Terrier,9
+Kia Forte,Rescue Dog,1
+Kia Forte,Cocker Spaniel,2
+Kia Forte,Pug,4
+Kia Forte,Giant Schnauzer,5
+Kia Forte,Mutt,1
+Kia Forte,Dachshund,1
+Kia Forte,American Bulldog,1
+Kia Forte,Chow Chow,1
+Kia Forte,Great Dane,1
+Kia Forte,Shih Tzu,1
+Kia Forte,Akita,1
+Maserati Ghibli,Rottweiler,1
+Maserati Ghibli,Chihuahua,4
+Maserati Ghibli,English Springer Spaniel,2
+Maserati Ghibli,Great Dane,1
+Maserati Ghibli,Rescue Dog,1
+Maserati Ghibli,Italian Greyhound,1
+Maserati Ghibli,Dachshund,1
+Maserati Ghibli,Pug,1
+Nissan Rogue,Pug,1
+Nissan Rogue,Chihuahua,1
+Nissan Murano,Labrador Retriever,3
+Nissan Murano,Dachshund,8
+Nissan Murano,Dalmatian,1
+Nissan Murano,Pug,2
+Nissan Murano,Pointer,3
+Nissan Murano,Rhodesian Ridgeback,2
+Nissan Murano,Basset Hound,1
+Nissan Murano,Pitbull,4
+Nissan Murano,Chihuahua,2
+Nissan Murano,Mutt,1
+Nissan Murano,Siberian Husky,6
+Nissan Murano,Jack Russell Terrier,5
+Nissan Murano,American Bulldog,7
+Nissan Murano,Poodle,1
+Nissan Murano,Shih Tzu,1
+Nissan Murano,Chinese Shar-Pei,1
+Nissan Murano,Welsh Corgi,1
+Nissan Murano,Cocker Spaniel,3
+Nissan Murano,Newfoundland,4
+Nissan Murano,Giant Schnauzer,2
+Nissan Murano,Golden Retriever,5
+Nissan Murano,German Shepherd Dog,5
+Nissan Murano,Rescue Dog,1
+Nissan Murano,Maltese,2
+Cadillac Escalade,Welsh Corgi,2
+Cadillac Escalade,Golden Retriever,1
+Cadillac Escalade,German Shepherd Dog,1
+Jeep Wrangler,German Shepherd Dog,4
+Jeep Wrangler,Goldendoodle,1
+Jeep Wrangler,Siberian Husky,22
+Jeep Wrangler,Giant Schnauzer,4
+Jeep Wrangler,Pug,19
+Jeep Wrangler,Mutt,1
+Jeep Wrangler,Rescue Dog,10
+Jeep Wrangler,Dachshund,6
+Jeep Wrangler,Chihuahua,9
+Jeep Wrangler,Great Dane,1
+Jeep Wrangler,Maltese,2
+Jeep Wrangler,Labrador Retriever,5
+Jeep Wrangler,Pomeranian,6
+Jeep Wrangler,Newfoundland,2
+Jeep Wrangler,Pekingese,3
+Jeep Wrangler,Welsh Corgi,7
+Jeep Wrangler,Golden Retriever,4
+Jeep Wrangler,Alaskan Malamute,1
+Jeep Wrangler,Border Collie,5
+Jeep Wrangler,Lhasa Apso,1
+Jeep Wrangler,Jack Russell Terrier,3
+Jeep Wrangler,Pitbull,4
+Jeep Wrangler,Pointer,1
+Jeep Wrangler,Weimaraner,1
+Jeep Wrangler,American Bulldog,4
+Jeep Wrangler,Rottweiler,3
+Jeep Wrangler,Samoyed,1
+Jeep Wrangler,Poodle,3
+Jeep Wrangler,Bullmastiff,3
+Jeep Wrangler,Bichon Frise,2
+Jeep Wrangler,Akita,1
+Jeep Wrangler,Italian Greyhound,4
+Jeep Wrangler,Whippet,1
+Jeep Wrangler,Boston Terrier,1
+Jeep Wrangler,Shih Tzu,3
+Jeep Wrangler,Beagle,4
+Jeep Wrangler,Australian Shepherd,1
+Jeep Wrangler,Labradoodle,1
+Chrysler Pacifica,German Shepherd Dog,2
+Chrysler Pacifica,Dalmatian,1
+Chrysler Pacifica,Border Collie,4
+Chrysler Pacifica,Siberian Husky,2
+Chrysler Pacifica,American Bulldog,1
+Chrysler Pacifica,Dachshund,1
+Chrysler Pacifica,Miniature Pinscher,1
+Honda CR-V,American Bulldog,1
+Honda CR-V,Newfoundland,1
+Lincoln Continental,Siberian Husky,1
+Lincoln Continental,Poodle,1
+Lincoln Continental,Beagle,1
+Lincoln Continental,Labrador Retriever,1
+Lincoln Continental,Boston Terrier,1
+Lincoln Continental,German Shepherd Dog,2
+Lincoln Continental,Basset Hound,1
+Lincoln Continental,Maltese,1
+Lincoln Continental,Cocker Spaniel,3
+Lincoln Continental,Newfoundland,2
+Lincoln Continental,Jack Russell Terrier,1
+Lincoln Continental,Pointer,1
+Ford Fiesta,Pitbull,8
+Ford Fiesta,Dachshund,1
+Ford Fiesta,Chihuahua,12
+Ford Fiesta,Golden Retriever,5
+Ford Fiesta,Mutt,4
+Ford Fiesta,Whippet,1
+Ford Fiesta,Goldendoodle,1
+Kia Optima,Australian Shepherd,1
+Kia Optima,American Bulldog,1
+Kia Optima,German Shepherd Dog,1
+Kia Optima,Golden Retriever,1
+Bentley Mulsanne,Bloodhound,1
+Bentley Mulsanne,Dachshund,1
+Bentley Mulsanne,Chinese Shar-Pei,1
+Bentley Mulsanne,Cockapoo,1
+Bentley Mulsanne,Rescue Dog,1
+Jeep Compass,Poodle,1
+Jeep Compass,Dachshund,2
+Jeep Compass,Pitbull,1
+Jeep Compass,Maltese,1
+Jeep Compass,German Shepherd Dog,2
+Jeep Compass,Alaskan Malamute,1
+Jeep Compass,Newfoundland,2
+Jeep Compass,Welsh Corgi,3
+Jeep Compass,Rhodesian Ridgeback,1
+Jeep Compass,Italian Greyhound,3
+Jeep Compass,Whippet,3
+Jeep Compass,Jack Russell Terrier,1
+Jeep Compass,Golden Retriever,4
+Jeep Compass,Beagle,9
+Mercedes-AMG GT,American Bulldog,2
+Mercedes-AMG GT,Whippet,1
+Tesla Model X,Maltese,1
+Tesla Model X,Bloodhound,1
+Tesla Model X,Dachshund,211
+Tesla Model X,Italian Greyhound,36
+Tesla Model X,German Shepherd Dog,2
+Tesla Model X,Rottweiler,1
+Tesla Model X,American Bulldog,1
+Tesla Model X,Great Dane,1
+Tesla Model X,Miniature Pinscher,5
+Nissan Xterra,Rhodesian Ridgeback,1
+Nissan Xterra,German Shepherd Dog,1
+Nissan Xterra,Australian Shepherd,1
+Nissan Xterra,American Bulldog,6
+Nissan Xterra,Pitbull,4
+Nissan Xterra,Golden Retriever,3
+Nissan Xterra,Italian Greyhound,1
+Nissan Xterra,Beagle,1
+Mercedes-Benz G-Class,German Shepherd Dog,1
+Mercedes-Benz G-Class,Bichon Frise,1
+Porsche Cayman,Mutt,2
+Porsche Cayman,Poodle,2
+Porsche Cayman,Siberian Husky,2
+Porsche Cayman,Dachshund,4
+Porsche Cayman,Labrador Retriever,1
+Porsche Cayman,Basset Hound,1
+Porsche Cayman,American Bulldog,4
+Porsche Cayman,Chihuahua,1
+Volvo XC60,Italian Greyhound,1
+Audi R8,Chihuahua,3
+Chevrolet Silverado,Chihuahua,6
+Chevrolet Silverado,Pug,1
+Chevrolet Silverado,Labrador Retriever,5
+Chevrolet Silverado,Newfoundland,1
+Chevrolet Silverado,Goldendoodle,1
+Jaguar XE,Chihuahua,8
+Jaguar XE,Bloodhound,1
+Nissan Sentra,Great Dane,2
+Nissan Sentra,Pitbull,3
+Nissan Sentra,Boston Terrier,2
+Nissan Sentra,Siberian Husky,2
+Dodge Challenger,American Bulldog,3
+Dodge Challenger,Miniature Pinscher,4
+Dodge Challenger,Golden Retriever,2
+Dodge Challenger,Pomeranian,1
+Dodge Challenger,Cocker Spaniel,1
+Dodge Challenger,Italian Greyhound,3
+Dodge Challenger,Pug,1
+Chevrolet Cruze,Chihuahua,7
+Honda Pilot,Pitbull,9
+Honda Pilot,Italian Greyhound,6
+Honda Pilot,Beagle,1
+Honda Pilot,Border Collie,3
+Honda Pilot,Chihuahua,5
+Honda Pilot,German Shepherd Dog,2
+Honda Pilot,Rescue Dog,5
+Honda Pilot,Poodle,3
+Honda Pilot,Rottweiler,1
+Honda Pilot,Bullmastiff,1
+Honda Pilot,Golden Retriever,2
+Honda Pilot,Siberian Husky,1
+Honda Pilot,Shih Tzu,1
+Honda Pilot,Maltese,1
+Honda Pilot,American Bulldog,1
+BMW 5-Series,American Bulldog,4
+BMW 5-Series,Pug,1
+Porsche Macan,Golden Retriever,2
+Porsche Macan,Bloodhound,1
+Porsche Macan,German Shepherd Dog,1
+Porsche Macan,Siberian Husky,1
+Porsche Macan,Chihuahua,1
+Porsche Macan,Rescue Dog,1
+GMC Acadia,Akita,1
+GMC Acadia,American Bulldog,1
+GMC Acadia,Beagle,1
+GMC Acadia,Pug,2
+GMC Acadia,Bloodhound,1
+GMC Acadia,Welsh Corgi,1
+Honda Accord,American Bulldog,1
+Honda Accord,Labrador Retriever,1
+Honda Accord,Bullmastiff,1
+Nissan Titan,Newfoundland,1
+Nissan Titan,Bullmastiff,1
+Nissan Titan,Pug,1
+Nissan Titan,Rescue Dog,3
+Audi Q3,Akita,1
+Toyota C-HR,Pug,1
+Toyota C-HR,Golden Retriever,1
+Toyota C-HR,Chihuahua,1
+Honda Fit,Boston Terrier,4
+Honda Fit,Border Collie,2
+Honda Fit,Bullmastiff,1
+Honda Fit,Chihuahua,2
+Honda Fit,Pitbull,2
+Honda Fit,Pointer,1
+Jeep Renegade,Rottweiler,3
+Jeep Renegade,Beagle,1
+Jeep Renegade,American Bulldog,1
+Jeep Renegade,Pug,1
+Nissan Leaf,Welsh Corgi,1
+Nissan Leaf,Pug,2
+Nissan Leaf,Cockapoo,1
+Nissan Leaf,English Springer Spaniel,1
+Dodge Grand Caravan,Bloodhound,1
+Toyota Land Cruiser,Rottweiler,3
+Toyota Land Cruiser,Dalmatian,1
+Toyota Land Cruiser,Pug,3
+Toyota Land Cruiser,Newfoundland,1
+Toyota Land Cruiser,Boston Terrier,3
+Toyota Land Cruiser,Chihuahua,1
+Toyota Land Cruiser,Bloodhound,2
+Chevrolet Malibu,Maltipoo,2
+Chevrolet Malibu,Dachshund,3
+Chevrolet Malibu,Rescue Dog,1
+Chevrolet Malibu,American Bulldog,1
+Chevrolet Malibu,Poodle,1
+Toyota RAV4,Pitbull,2
+Toyota RAV4,American Bulldog,1
+Chevrolet Sonic,Rescue Dog,1
+Chevrolet Sonic,Siberian Husky,1
+Toyota Corolla,Rescue Dog,6
+Toyota Corolla,Boston Terrier,20
+Toyota Corolla,Rottweiler,1
+Toyota Corolla,Pitbull,6
+Toyota Corolla,Basset Hound,1
+Toyota Corolla,Italian Greyhound,2
+Toyota Corolla,Goldendoodle,1
+Ford Transit Connect,Labrador Retriever,1
+Ram ProMaster,Pitbull,1
+Ram ProMaster,Boston Terrier,1
+Ram ProMaster,Border Collie,2
+Ram ProMaster,Cocker Spaniel,2
+Ram ProMaster,Siberian Husky,1
+Ram ProMaster,English Springer Spaniel,1
+Ram ProMaster,Labrador Retriever,1
+Ram ProMaster,Chihuahua,1
+Mazda 3,Pointer,1
+GMC Sierra,Welsh Corgi,1
+GMC Sierra,Chihuahua,1
+GMC Sierra,Newfoundland,1
+GMC Sierra,Pomeranian,1
+Buick Verano,Pug,1
+Buick Verano,Dachshund,1
+Ford Fusion,Pitbull,2
+Ford Fusion,Chihuahua,1
+Ford Fusion,Beagle,1
+Ford Fusion,Rottweiler,1
+Fiat 124 Spider,Akita,2
+Fiat 124 Spider,Bloodhound,2
+Fiat 124 Spider,Weimaraner,1
+BMW i8,Italian Greyhound,1
+BMW i8,American Bulldog,2
+BMW X6,Chihuahua,2
+BMW X6,American Bulldog,2
+BMW X6,Siberian Husky,1
+BMW X6,Golden Retriever,1
+BMW X6,Poodle,1
+Ford Mustang,Poodle,1
+Ford Mustang,Mutt,5
+Ford Mustang,Rescue Dog,8
+Ford Mustang,Great Dane,2
+Ford Mustang,Chihuahua,2
+Ford Mustang,Pitbull,13
+Ford Mustang,Chinese Shar-Pei,1
+Ford Mustang,German Shepherd Dog,2
+Ford Mustang,Siberian Husky,1
+Ford Mustang,American Bulldog,1
+Ford Mustang,Rottweiler,1
+Chevrolet City Express,Golden Retriever,1
+Toyota Highlander,Welsh Corgi,3
+Toyota Highlander,Beagle,7
+Toyota Highlander,Siberian Husky,1
+Toyota Highlander,German Shepherd Dog,4
+Toyota Highlander,Pug,2
+Toyota Highlander,Dachshund,1
+Toyota Highlander,Basset Hound,1
+Toyota Highlander,Labrador Retriever,1
+Toyota Highlander,Border Collie,56
+Toyota Highlander,Whippet,1
+Toyota Highlander,Great Pyrenees,1
+Toyota Highlander,Labradoodle,1
+Toyota Highlander,Cockapoo,2
+Toyota Highlander,Rescue Dog,1
+Toyota Highlander,American Bulldog,1
+Porsche Boxster,Bloodhound,1
+Porsche Boxster,Chihuahua,73
+Porsche Boxster,Basset Hound,1
+Porsche Boxster,Bichon Frise,1
+Porsche Boxster,Pitbull,8
+Buick Encore,Rescue Dog,13
+Buick Encore,Golden Retriever,41
+Buick Encore,English Springer Spaniel,2
+Buick Encore,Mutt,1
+Buick Encore,Pomeranian,1
+Chevrolet Express,Pug,17
+Chevrolet Express,Poodle,1
+Chevrolet Express,Rescue Dog,44
+Chevrolet Express,Boston Terrier,3
+Chevrolet Express,Miniature Pinscher,3
+Fiat 500L,Pug,1
+Volkswagen Passat,American Bulldog,2
+Volkswagen Passat,Akita,1
+Toyota Sienna,American Bulldog,3
+Toyota Sienna,Beagle,1
+Toyota Sienna,Goldendoodle,1
+Buick Cascada,Labrador Retriever,1
+Buick Cascada,Beagle,1
+Nissan GT-R,Welsh Corgi,3
+Nissan GT-R,Pug,1
+BMW X5,Golden Retriever,1
+BMW X5,Siberian Husky,1
+Maserati GranTurismo,Bloodhound,1
+Maserati GranTurismo,Pitbull,1
+Nissan Juke,Rescue Dog,6
+Nissan Juke,Bullmastiff,1
+Nissan Juke,Bloodhound,1
+Nissan Juke,English Springer Spaniel,3
+Buick Envision,Chihuahua,1
+Buick Envision,Pitbull,5
+Buick Envision,Golden Retriever,1
+Buick Envision,Cane Corso,1
+Nissan NV200,Golden Retriever,7
+Honda HR-V,Chihuahua,3
+Honda HR-V,Border Collie,2
+Honda HR-V,Bullmastiff,1
+Honda HR-V,Pitbull,2
+Honda HR-V,Pointer,1
+Honda HR-V,Welsh Corgi,1
+Honda HR-V,Newfoundland,1
+Subaru Crosstrek,Shih Tzu,4
+Subaru Crosstrek,Pitbull,1
+Subaru Crosstrek,Rottweiler,1
+Subaru Crosstrek,Border Collie,1
+Subaru Crosstrek,Newfoundland,1
+Subaru Crosstrek,German Shepherd Dog,1
+Subaru Crosstrek,Australian Shepherd,1
+Subaru Crosstrek,Rescue Dog,1
+Chevrolet Camaro,Siberian Husky,1
+Chevrolet Camaro,Labrador Retriever,1
+Chevrolet Camaro,Pomeranian,1
+Chevrolet Camaro,Mutt,4
+Chevrolet Camaro,Whippet,1
+Land Rover Range Rover,German Shepherd Dog,1
+Land Rover Range Rover,Goldendoodle,1
+Land Rover Range Rover,Chihuahua,1
+Land Rover Range Rover,Border Collie,1
+Nissan 370Z,Chihuahua,1
+Nissan 370Z,Beagle,1
+Subaru Impreza,Bernese Mountain Dog,3
+Subaru Impreza,Bullmastiff,2
+Subaru Impreza,Labrador Retriever,2
+Subaru Impreza,Chihuahua,2
+Subaru Impreza,Pitbull,11
+Subaru Impreza,Siberian Husky,2
+Subaru Impreza,Shih Tzu,2
+Subaru Impreza,Poodle,1
+Subaru Impreza,American Bulldog,1
+Subaru Impreza,Pug,3
+Subaru Impreza,Giant Schnauzer,1
+Subaru Impreza,Akita,1
+Hyundai Ioniq,Bloodhound,1
+Dodge Ram,Chihuahua,2
+Dodge Ram,American Bulldog,4
+Dodge Ram,Jack Russell Terrier,2
+Dodge Ram,Dachshund,1
+Hyundai Sonata,Pitbull,1
+Toyota Avalon,Chihuahua,2
+Toyota Avalon,Mutt,3
+Toyota Avalon,Newfoundland,1
+Toyota Avalon,Beagle,1
+Toyota Avalon,Jack Russell Terrier,2
+Toyota Sequoia,Italian Greyhound,1
+Toyota Sequoia,American Bulldog,2
+Toyota Sequoia,Chihuahua,18
+Toyota Sequoia,Pitbull,1
+Chevrolet Equinox,Siberian Husky,1
+Chevrolet Equinox,Rottweiler,1
+Chevrolet Equinox,American Bulldog,2
+Chevrolet Equinox,Italian Greyhound,1
+Lexus NX,Rescue Dog,1
+Subaru BRZ,German Shepherd Dog,2
+Subaru BRZ,Bloodhound,3
+Subaru BRZ,Dachshund,2
+Subaru BRZ,Beagle,8
+Subaru BRZ,Cockapoo,12
+Subaru BRZ,American Bulldog,3
+Subaru BRZ,Chihuahua,4
+Lexus IS,Italian Greyhound,1
+Lexus IS,Rottweiler,2
+Lexus IS,Welsh Corgi,1
+Lexus IS,Dalmatian,1
+Mitsubishi Outlander,Labrador Retriever,1
+Mitsubishi Outlander,Welsh Corgi,1
+Mitsubishi Outlander,Golden Retriever,1
+Volvo S80,Bloodhound,1
+Volvo S80,Labrador Retriever,1
+Acura NSX,Whippet,1
+Acura NSX,Mutt,1
+Acura NSX,Bullmastiff,1
+Acura NSX,Labrador Retriever,1
+Acura NSX,Chihuahua,1
+Acura NSX,Pitbull,5
+Acura NSX,Siberian Husky,1
+Acura NSX,Shih Tzu,1
+BMW Z4,Pug,1
+Jaguar XF,Pitbull,1
+Jaguar XF,Beagle,2
+Jaguar XF,German Shepherd Dog,2
+Jaguar XF,Belgian Malinois,1
+Jaguar XF,Golden Retriever,1
+Jaguar XF,Poodle,1
+Bentley Flying Spur,Bloodhound,1
+Fiat 500X,Akita,2
+Chevrolet Tahoe,Border Collie,1
+Chevrolet Tahoe,Giant Schnauzer,1
+Chevrolet Tahoe,Poodle,1
+Chevrolet Tahoe,Maltipoo,1
+BMW 2-Series,Shih Tzu,1
+Ford Edge,Weimaraner,1
+Toyota FJ Cruiser,Dachshund,1
+Toyota FJ Cruiser,Pitbull,1
+Toyota FJ Cruiser,Basset Hound,4
+Toyota FJ Cruiser,Cocker Spaniel,1
+Toyota FJ Cruiser,Italian Greyhound,1
+Toyota FJ Cruiser,Pomeranian,2
+Toyota FJ Cruiser,American Bulldog,4
+Toyota FJ Cruiser,Mutt,1
+Toyota FJ Cruiser,Cockapoo,35
+Subaru Legacy,American Bulldog,2
+Subaru Legacy,Pug,2
+Subaru Legacy,Siberian Husky,2
+Subaru Legacy,Newfoundland,1
+Subaru Legacy,Rescue Dog,1
+Subaru Legacy,Beagle,1
+Subaru Legacy,Goldendoodle,1
+Subaru Legacy,Jack Russell Terrier,1
+Kia K900,Chihuahua,2
+Kia K900,American Bulldog,1
+Mercedes-Benz B-Class,Maltese,5
+Mercedes-Benz B-Class,Pitbull,5
+Mercedes-Benz B-Class,Newfoundland,1
+Mercedes-Benz B-Class,Siberian Husky,2
+Audi TT,Samoyed,1
+Audi TT,Dachshund,7
+Audi TT,Border Collie,2
+Audi TT,Basset Hound,1
+Audi TT,American Bulldog,1
+Audi TT,Siberian Husky,13
+Volkswagen Jetta,American Bulldog,1
+Volkswagen Jetta,Welsh Corgi,1
+Volvo V60,Shih Tzu,1
+Volvo V60,Poodle,1
+Jaguar XJ,Beagle,66
+Jaguar XJ,American Bulldog,2
+GMC Terrain,Pug,1
+Dodge Charger,American Bulldog,3
+Dodge Charger,Miniature Pinscher,4
+Dodge Charger,Golden Retriever,2
+Dodge Charger,Pitbull,2
+Dodge Charger,Boston Terrier,4
+Dodge Charger,German Shepherd Dog,1
+Dodge Charger,Dachshund,4
+Dodge Charger,Great Pyrenees,3
+Dodge Charger,Welsh Corgi,2
+Dodge Charger,Pug,4
+Dodge Dart,Welsh Corgi,2
+Dodge Dart,American Bulldog,1
+Dodge Dart,Pitbull,4
+Dodge Dart,Bullmastiff,1
+Dodge Dart,Border Collie,1
+Dodge Dart,Rescue Dog,1
+Dodge Dart,Chihuahua,5
+Dodge Dart,Boston Terrier,1
+BMW 4-Series,Pug,1
+BMW 4-Series,Rescue Dog,1
+BMW 4-Series,Siberian Husky,1
+Nissan Maxima,Poodle,1
+Nissan Maxima,Australian Shepherd,1
+Nissan Maxima,Chihuahua,5
+Kia Sorento,Pitbull,2
+Kia Sorento,Welsh Corgi,1
+Kia Sorento,Pug,1
+Kia Sorento,Rescue Dog,5
+Kia Sorento,German Shepherd Dog,1
+Kia Sorento,Beagle,1
+Kia Sorento,Pointer,1
+Kia Sorento,Boston Terrier,1
+Kia Sorento,Border Collie,1
+Kia Sorento,American Bulldog,3
+Dodge Durango,Bloodhound,1
+Dodge Durango,Chihuahua,21
+Dodge Durango,Dachshund,2
+Dodge Durango,Pitbull,1
+Mini Countryman,Jack Russell Terrier,1
+Mini Countryman,Border Collie,1
+Mini Countryman,American Bulldog,4
+Mini Countryman,Pitbull,1
+Mini Countryman,Rescue Dog,1
+Mini Countryman,Pug,1
+Jeep Grand Cherokee,Chihuahua,1
+Jeep Grand Cherokee,Welsh Corgi,3
+Jeep Grand Cherokee,Dalmatian,1
+Cadillac CTS,Pug,1
+Cadillac CTS,Newfoundland,1
+Cadillac CTS,Labrador Retriever,3
+Cadillac CTS,Border Collie,1
+Porsche Panamera,American Bulldog,6
+Porsche Panamera,Great Dane,1
+Porsche Panamera,Border Collie,1
+Kia Niro,Pug,1
+Mazda 6,German Shepherd Dog,1
+Mazda 6,Labrador Retriever,1
+Ford F-Series,American Bulldog,4
+Ford F-Series,Dachshund,1
+Ford F-Series,Goldendoodle,2
+Ford F-Series,Pug,1
+GMC Canyon,Italian Greyhound,1
+GMC Canyon,German Shepherd Dog,1
+GMC Canyon,Chihuahua,1
+Chrysler 300,Pug,1
+Chrysler 300,Welsh Corgi,1
+Mazda MX-5 Miata,Pug,1
+Porsche 911,Bloodhound,2
+Porsche Cayenne,Bloodhound,2
+Porsche Cayenne,Rescue Dog,2
+Porsche Cayenne,Rat Terrier,1
+Hyundai Equus,Beagle,3
+Hyundai Equus,Pitbull,2
+Hyundai Equus,Pug,1
+Hyundai Equus,German Shepherd Dog,4
+Hyundai Equus,Bernese Mountain Dog,1
+Hyundai Equus,Boston Terrier,1
+Hyundai Equus,Bullmastiff,1
+Hyundai Equus,American Bulldog,1
+Hyundai Equus,Chihuahua,1
+Hyundai Equus,Giant Schnauzer,1
+Hyundai Equus,Italian Greyhound,1
+Hyundai Equus,Dachshund,2
+Hyundai Equus,Labrador Retriever,1
+Lincoln Navigator,Chihuahua,8
+Lincoln Navigator,Siberian Husky,1
+Lincoln Navigator,Pug,1
+Buick Regal,Welsh Corgi,44
+Buick Regal,Golden Retriever,1
+Buick Regal,Pomeranian,2
+Buick Regal,Italian Greyhound,1
+Buick Regal,Whippet,2
+Buick Regal,Pointer,3
+Buick Regal,Labrador Retriever,2
+Buick Regal,Pug,1
+Buick Regal,Chihuahua,8
+Buick Regal,Rescue Dog,3
+Buick Regal,Labradoodle,1
+Buick Regal,Pitbull,2
+Buick Regal,Dachshund,2
+Buick Regal,Basset Hound,1
+Buick Regal,Dalmatian,1
+Buick Regal,Jack Russell Terrier,2
+Buick Regal,Border Collie,1
+Buick Regal,Poodle,5
+Buick Regal,American Bulldog,1
+Buick Regal,Chow Chow,1
+Buick Regal,Beagle,1
+Kia Rio,Chihuahua,1
+Kia Rio,Pug,1
+Kia Rio,Labrador Retriever,2
+Kia Rio,Great Dane,1
+Kia Rio,Shih Tzu,1
+Kia Rio,Akita,1
+Audi A3,Siberian Husky,1
+Audi A3,Pitbull,1
+Ford C-Max,Pitbull,2
+Ford C-Max,Siberian Husky,2
+Ford C-Max,Great Pyrenees,1
+Ford C-Max,Chihuahua,2
+Ford C-Max,Pug,2
+Ford C-Max,Poodle,1
+Ford C-Max,Beagle,1
+Ford C-Max,Welsh Corgi,2
+Ford C-Max,Jack Russell Terrier,1
+Ford C-Max,Boston Terrier,1
+Ford C-Max,Dachshund,1
+Ford C-Max,German Shepherd Dog,1
+Ford C-Max,Italian Greyhound,1
+Cadillac ATS,Chihuahua,1
+Volkswagen Atlas,Chihuahua,2
+Volkswagen Atlas,Dachshund,2
+Volkswagen Atlas,Pointer,1
+Volkswagen Atlas,Jack Russell Terrier,1
+Volkswagen Atlas,Rescue Dog,1
+Mitsubishi Lancer,Jack Russell Terrier,2
+Mitsubishi Lancer,Akita,2
+Mitsubishi Lancer,Pitbull,3
+Volvo XC90,Newfoundland,1
+Hyundai Elantra,American Bulldog,1
+Hyundai Accent,Pug,1
+Hyundai Accent,Labrador Retriever,1
+Hyundai Accent,Boston Terrier,1
+Hyundai Accent,Golden Retriever,2
+Hyundai Accent,American Bulldog,2
+Hyundai Accent,Bullmastiff,1
+Fiat 500,Rat Terrier,10
+Fiat 500,Cane Corso,1
+Fiat 500,American Bulldog,1
+Fiat 500,Chihuahua,87
+Fiat 500,Mutt,4
+Fiat 500,Whippet,1
+Fiat 500,Pug,1
+Fiat 500,Rescue Dog,1
+Fiat 500,Italian Greyhound,1
+Genesis G80,Cockapoo,1
+Genesis G80,Pug,2
+Genesis G80,Bloodhound,1
+Ford Transit,Border Collie,3
+Ford Transit,Welsh Corgi,1
+Toyota Venza,Pug,1
+Infiniti QX30,Chihuahua,1
+Acura MDX,Rottweiler,6
+Acura MDX,Maltese,4
+Acura MDX,American Bulldog,3
+Acura MDX,Newfoundland,1
+Hyundai Tucson,American Bulldog,2
+Hyundai Tucson,Newfoundland,1
+Toyota Prius,Poodle,1
+Toyota Prius,Jack Russell Terrier,1
+Toyota Prius,Dalmatian,2
+Honda Crosstour,Pug,1
+Honda Crosstour,Dachshund,2
+Honda Crosstour,Siberian Husky,10
+Honda Crosstour,Doberman Pinscher,1
+Mercedes-Benz C-Class,Poodle,2
+Mercedes-Benz C-Class,German Shepherd Dog,1
+Mercedes-Benz C-Class,Welsh Corgi,1
