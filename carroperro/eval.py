@@ -3,13 +3,6 @@
 
 See https://gist.github.com/bwhite/3726239 for (n)dcg inspiration."""
 
-__author__ = "Russell Horton"
-__copyright__ = "Copyright 2018, All Rights Reserved"
-__license__ = "For Toptal candidacy evaluation only. No license is granted."
-__version__ = "0.1"
-__maintainer__ = "Russell Horton"
-__email__ = "russ@bagaduce.com"
-
 from scipy import stats
 import numpy
 from carroperro import counting
