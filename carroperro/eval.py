@@ -53,7 +53,8 @@ class Eval(object):
 
     def recommend_cars_baseline(self):
         """A baseline recommender that always recommends the 5 best-selling
-        cars in America, with descending scores from 1 to .1
+        cars in America with arbitrary scores in descending order of
+        popularity.
 
         Returns:
             list: of 2-tuples, (car: str, score: float)
